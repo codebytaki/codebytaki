@@ -1,36 +1,134 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Taki! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> MD Taki <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-### 🚀 AI-Powered Developer | Python Expert | Full-Stack Engineer | DevOps Enthusiast
+### 🚀 Python Automation Expert | Security Researcher | Full-Stack Developer | AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%F0%9F%A4%96;Automating+Everything+%E2%9A%A1;Full-Stack+Developer+%F0%9F%8C%90;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Bug+Hunter+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=5+Years+Python+Automation+Experience;Bug+Hunter+%26+Security+Researcher;Full-Stack+Developer;AI+Automation+Enthusiast;Student+%26+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="35"> About Me
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=codebytaki&color=FF1493&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/codebytaki?style=for-the-badge&logo=github&color=FF69B4&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=codebytaki&color=00FF7F&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/codebytaki?style=for-the-badge&logo=github&color=00FF7F&labelColor=000000)
 ![GitHub stars](https://img.shields.io/github/stars/codebytaki?style=for-the-badge&logo=github&color=FFD700&labelColor=000000)
 
 </div>
 
-I'm an **AI-Powered Developer** from Bangladesh 🇧🇩, passionate about building intelligent automation solutions!
+<div align="center">
 
-**🎯 Mission:** Turning Ideas into Production-Ready Code with AI superpowers ⚡
+### 🎓 Student | 💻 Developer | 🔐 Security Enthusiast
 
-**💡 Philosophy:** "Leveraging AI to build smarter, faster, and more efficient solutions"
+</div>
+
+Hello! I'm **MD Taki**, a passionate developer from Bangladesh 🇧🇩 with **5 years of hands-on experience** in Python-based automation development. I'm currently a student dedicated to mastering the art of automation, security research, and AI-powered development.
+
+**🎯 Mission:** Building intelligent automation solutions that make complex tasks simple and secure.
+
+**💡 Philosophy:** "Automate everything, secure everything, innovate constantly."
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Professional Experience
 
-### 🐍 Programming Languages
+### 🐍 Python Automation Expert (5+ Years)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/5%2B%20Years-Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD700)
+![Automation](https://img.shields.io/badge/Expert-Automation%20Development-00FF7F?style=for-the-badge&logo=robot&logoColor=000000)
+![Scripting](https://img.shields.io/badge/Advanced-Scripting%20Languages-FF6347?style=for-the-badge&logo=code&logoColor=white)
+
+</div>
+
+**What I Do:**
+- 🤖 Design and implement complex automation workflows
+- ⚡ Build intelligent bots and automated systems
+- 🔄 Create CI/CD pipelines and deployment automation
+- 📊 Develop data processing and transformation scripts
+- 🔧 Optimize repetitive tasks with smart solutions
+
+**Core Expertise:**
+- Advanced Python scripting and OOP
+- API integration and automation
+- Web scraping and data extraction
+- Task scheduling and workflow optimization
+- Error handling and robust system design
+
+---
+
+## <img src="https://media.giphy.com/media/jn4K6Amo3dg40/giphy.gif" width="35"> Technical Interests & Skills
+
+### 🛡️ Bug Hunting & Security Research
+
+<div align="center">
+
+![Bug Bounty](https://img.shields.io/badge/🐛-Bug%20Hunting-FF1493?style=for-the-badge)
+![Security](https://img.shields.io/badge/🔐-Security%20Research-00CED1?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/🔍-Penetration%20Testing-FF6347?style=for-the-badge)
+![Exploits](https://img.shields.io/badge/⚡-Exploitation%20Techniques-FFD700?style=for-the-badge)
+
+</div>
+
+**Security Focus:**
+- 🔍 Vulnerability assessment and penetration testing
+- 🐛 Bug bounty hunting and responsible disclosure
+- 🛡️ Web application security testing (XSS, SQLi, CSRF)
+- 🌐 Network scanning and service enumeration
+- 🔐 Security automation and exploit development
+- 📝 Writing security tools and assessment frameworks
+
+---
+
+### 💻 Full-Stack Development
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/🎨-Frontend%20Dev-E34F26?style=for-the-badge&logo=html5)
+![Backend](https://img.shields.io/badge/⚙️-Backend%20Dev-3776AB?style=for-the-badge&logo=python)
+![Apps](https://img.shields.io/badge/📱-App%20Development-00FF7F?style=for-the-badge)
+![Websites](https://img.shields.io/badge/🌐-Web%20Development-007ACC?style=for-the-badge)
+
+</div>
+
+**Development Capabilities:**
+- 🎨 **Frontend:** HTML5, CSS3, JavaScript (ES6+), responsive design
+- ⚙️ **Backend:** Python Flask, REST APIs, database integration
+- 📱 **Applications:** Desktop apps, web apps, automation tools
+- 🌐 **Websites:** Full-stack web development, interactive dashboards
+- 🗄️ **Databases:** SQLite, SQL, data modeling and optimization
+
+---
+
+### 🤖 AI Technologies & Automation
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/🧠-AI%20Technologies-412991?style=for-the-badge&logo=openai)
+![ML](https://img.shields.io/badge/📊-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow)
+![Testing](https://img.shields.io/badge/🧪-AI%20Model%20Testing-FF1493?style=for-the-badge)
+![AutoML](https://img.shields.io/badge/⚡-AI%20Automation-00FFFF?style=for-the-badge)
+
+</div>
+
+**AI Focus Areas:**
+- 🧠 Testing and integrating multiple AI models (OpenAI, Local LLMs, custom models)
+- ⚡ Automating AI workflows and prompt engineering
+- 🤖 Building AI-powered development tools and assistants
+- 📊 AI-driven code generation, review, and optimization
+- 🔄 Creating intelligent automation with AI decision-making
+- 🔬 Experimenting with different AI architectures and approaches
+
+---
+
+## <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="35"> Tech Stack
+
+### Programming Languages
 
 <div align="center">
 
@@ -42,7 +140,7 @@ I'm an **AI-Powered Developer** from Bangladesh 🇧🇩, passionate about build
 
 </div>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <div align="center">
 
@@ -53,106 +151,100 @@ I'm an **AI-Powered Developer** from Bangladesh 🇧🇩, passionate about build
 
 </div>
 
-### ⚙️ DevOps & Cloud
+### DevOps & Security Tools
 
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF6347)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=32CD32)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=FFA500)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFD700)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FF4500)
 
 </div>
 
-### 🛠️ Frameworks & Tools
-
-<div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=00FF7F)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFD700)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FF1493)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=4169E1)
-
-</div>
-
 ---
 
-## <img src="https://media.giphy.com/media/jn4K6Amo3dg40/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/l3vR85P22BVS7EtPa/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codebytaki&theme=radical&background=FF1493&border=FFD700&ring=00FFFF&fire=FF6347&currStreakNum=FFD700&sideNum=FFFFFF&currStreakLabel=00FFFF&sideLabel=FFFFFF&dates=000000&stroke=FF69B4)
+### 🌟 What I've Built
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebytaki&layout=compact&theme=radical&bg_color=FF1493&border_color=FFD700&text_color=000000&title_color=FFFFFF&icon_color=FFD700)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebytaki&show_icons=true&theme=radical&bg_color=FF1493&border_color=FFD700&text_color=000000&title_color=FFFFFF&icon_color=FFD700&hide_border=false)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-### 🌟 Check Out My Amazing Projects!
-
-| 🤖 AI Automation | 🌐 Full-Stack Dashboard |
+| 🤖 AI Automation Toolkit | 🌐 Full-Stack Dashboard |
 |:-:|:-:|
-| ![AI Toolkit](https://img.shields.io/badge/AI-Automation-FF1493?style=for-the-badge&logo=python&logoColor=white) | ![Dashboard](https://img.shields.io/badge/Web-Dashboard-00FFFF?style=for-the-badge&logo=javascript&logoColor=black) |
-| Multi-AI code generation & workflow automation | Interactive web dashboard with AI insights |
+| ![AI](https://img.shields.io/badge/Python%20%2B%20AI-Automation-FF1493?style=for-the-badge) | ![Web](https://img.shields.io/badge/HTML%2FCSS%2FJS-Dashboard-00FFFF?style=for-the-badge) |
+| Multi-AI code generation & smart workflow automation | Interactive web dashboard with real-time AI insights |
 | [![View](https://img.shields.io/badge/VIEW-PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/codebytaki/ai-automation-toolkit) | [![View](https://img.shields.io/badge/VIEW-PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/codebytaki/fullstack-ai-dashboard) |
 
-| 🛡️ Bug Hunter | ⚙️ DevOps Pipeline |
+| 🛡️ Bug Hunter Toolkit | ⚙️ DevOps Pipeline |
 |:-:|:-:|
-| ![Security](https://img.shields.io/badge/Security-Toolkit-FF6347?style=for-the-badge&logo=shield&logoColor=white) | ![DevOps](https://img.shields.io/badge/DevOps-Pipeline-32CD32?style=for-the-badge&logo=docker&logoColor=white) |
-| Security testing & vulnerability assessment | CI/CD automation with intelligent deployment |
+| ![Security](https://img.shields.io/badge/Security-Testing-FF6347?style=for-the-badge) | ![DevOps](https://img.shields.io/badge/CI%2FCD-Automation-32CD32?style=for-the-badge) |
+| Automated vulnerability scanning & penetration testing | AI-powered deployment pipelines & infrastructure automation |
 | [![View](https://img.shields.io/badge/VIEW-PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/codebytaki/bug-hunter-toolkit) | [![View](https://img.shields.io/badge/VIEW-PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/codebytaki/ai-devops-pipeline) |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/l3vR85P22BVS7EtPa/giphy.gif" width="30"> Current Projects
+## <img src="https://media.giphy.com/media/2zYzApWHwi0Pu/giphy.gif" width="35"> Current Focus
 
 <div align="center">
 
-### 🚀 What I'm Building Right Now
+### 🎓 As a Student, I'm Focused On:
 
-**🤖 AI-Powered Development Tools**
-- ![Python](https://img.shields.io/badge/Multi--AI-Integration-FF1493?style=flat-square) Code generation and review
-- ![Automation](https://img.shields.io/badge/Smart-Testing-00FF7F?style=flat-square) Automated QA workflows  
-- ![Workflow](https://img.shields.io/badge/Workflow-Automation-FFD700?style=flat-square) Intelligent task scheduling
+**🚀 Advanced Automation**
+- ![Python](https://img.shields.io/badge/Complex-Workflows-3776AB?style=flat-square) Enterprise-level automation systems
+- ![AI](https://img.shields.io/badge/AI--Powered-Bots-00FF7F?style=flat-square) Intelligent automation with AI integration
+- ![Scale](https://img.shields.io/badge/Scalable-Solutions-FFD700?style=flat-square) Building systems that scale
 
-**🌍 Open Source Contributions**
-- ![TorchGeo](https://img.shields.io/badge/Geospatial-AI-00CED1?style=flat-square) ML for satellite imagery
-- ![Tools](https://img.shields.io/badge/Developer-Tools-FF6347?style=flat-square) Productivity enhancements
-- ![Security](https://img.shields.io/badge/Bug-Hunting-FF4500?style=flat-square) Research & testing
+**🔐 Security Research**
+- ![BugBounty](https://img.shields.io/badge/Bug-Bounty-FF1493?style=flat-square) Active bug hunting and responsible disclosure
+- ![Exploits](https://img.shields.io/badge/Exploit-Development-FF6347?style=flat-square) Understanding and developing security tools
+- ![Testing](https://img.shields.io/badge/Penetration-Testing-00CED1?style=flat-square) Comprehensive security assessments
 
-**📚 Learning & Growing**
-- ![ML](https://img.shields.io/badge/Advanced-ML-9370DB?style=flat-square) Deep learning architectures
-- ![Cloud](https://img.shields.io/badge/Cloud-Native-32CD32?style=flat-square) AWS/GCP/Azure
-- ![K8s](https://img.shields.io/badge/Kubernetes-Expert-2088FF?style=flat-square) Container orchestration
+**🤖 AI Innovation**
+- ![Models](https://img.shields.io/badge/Model-Testing-412991?style=flat-square) Testing various AI models and architectures
+- ![AutoML](https://img.shields.io/badge/AI-Automation-00FFFF?style=flat-square) Automating AI workflows and processes
+- ![Tools](https://img.shields.io/badge/AI-Developer-Tools-FF69B4?style=flat-square) Building AI-powered development tools
+
+**💻 Full-Stack Mastery**
+- ![Web](https://img.shields.io/badge/Web-Apps-E34F26?style=flat-square) Complete web application development
+- ![Desktop](https://img.shields.io/badge/Desktop-Apps-007ACC?style=flat-square) Cross-platform desktop applications
+- ![Mobile](https://img.shields.io/badge/Mobile-Ready-32CD32?style=flat-square) Responsive and mobile-first design
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/2zYzApWHwi0Pu/giphy.gif" width="30"> Let's Connect!
+## <img src="https://media.giphy.com/media/jn4K6Amo3dg40/giphy.gif" width="35"> GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codebytaki&theme=dark&background=0D1117&border=00FF7F&ring=00FF7F&fire=FF6347&currStreakNum=FFD700&sideNum=FFFFFF&currStreakLabel=00FF7F&sideLabel=FFFFFF&dates=8B949E&stroke=00FF7F)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebytaki&layout=compact&theme=dark&bg_color=0D1117&border_color=00FF7F&text_color=FFFFFF&title_color=00FF7F)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebytaki&show_icons=true&theme=dark&bg_color=0D1117&border_color=00FF7F&text_color=FFFFFF&title_color=00FF7F&icon_color=00FF7F&hide_border=true)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7qE1YNBOY4VfXyIo/giphy.gif" width="35"> Let's Connect!
 
 <div align="center">
 
 ### 🤝 I'm Always Open To:
 
 ![Collaborations](https://img.shields.io/badge/🤝-Collaborations-FF1493?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/💡-Innovation-00FFFF?style=for-the-badge)
-![Learning](https://img.shields.io/badge/📚-Learning-FFD700?style=for-the-badge)
-![Opportunities](https://img.shields.io/badge/💼-Opportunities-32CD32?style=for-the-badge)
+![Security](https://img.shields.io/badge/🔐-Security%20Research-00CED1?style=for-the-badge)
+![Automation](https://img.shields.io/badge/🤖-Automation%20Projects-00FF7F?style=for-the-badge)
+![Learning](https://img.shields.io/badge/📚-Knowledge%20Sharing-FFD700?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/🌟-Open--Source-FF6347?style=for-the-badge)
 
 ### 📬 Get In Touch:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/codebytaki)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebytaki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -161,15 +253,16 @@ I'm an **AI-Powered Developer** from Bangladesh 🇧🇩, passionate about build
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7qE1YNBOY4VfXyIo/giphy.gif" width="30"> Fun Facts
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Quick Facts
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/☕-Coffee-8B4513?style=flat-square) Powered by caffeine and code
-![AI](https://img.shields.io/badge/🤖-AI-FF1493?style=flat-square) Building with AI superpowers
-![Bug](https://img.shields.io/badge/🐛-Bugs-FF6347?style=flat-square) Hunting bugs for fun
-![Code](https://img.shields.io/badge/💻-Code-00CED1?style=flat-square) 1000+ commits and counting
-![Open](https://img.shields.io/badge/🌍-Open--Source-32CD32?style=flat-square) Contributor to the community
+![Experience](https://img.shields.io/badge/💻-5%2B%20Years%20Python-3776AB?style=flat-square)
+![Student](https://img.shields.io/badge/🎓-Student%20%26%20Developer-00FF7F?style=flat-square)
+![Security](https://img.shields.io/badge/🛡️-Bug%20Hunter-FF1493?style=flat-square)
+![AI](https://img.shields.io/badge/🤖-AI%20Enthusiast-412991?style=flat-square)
+![FullStack](https://img.shields.io/badge/🌐-Full--Stack%20Dev-00CED1?style=flat-square)
+![Automation](https://img.shields.io/badge/⚡-Automation%20Expert-FFD700?style=flat-square)
 
 </div>
 
@@ -177,15 +270,17 @@ I'm an **AI-Powered Developer** from Bangladesh 🇧🇩, passionate about build
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/d3nIj5HB6xZwdFOM/giphy.gif" width="30"> Thanks for Visiting! <img src="https://media.giphy.com/media/d3nIj5HB6xZwdFOM/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/d3nIj5HB6xZwdFOM/giphy.gif" width="35"> Thanks for Visiting My Profile! <img src="https://media.giphy.com/media/d3nIj5HB6xZwdFOM/giphy.gif" width="35">
 
 **⭐ Star my repositories if you find them helpful!**
 
-*_"Code. Automate. Innovate. Repeat."_*
+*_"Automate. Secure. Innovate. Repeat."_*
+
+**MD Taki** - Student | Python Automation Expert | Security Researcher | AI Enthusiast
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150">
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-FF1493?style=for-the-badge&logo=heart&logoColor=white)
-![Built by](https://img.shields.io/badge/Built%20by-Taki-FFD700?style=for-the-badge&logo=github&logoColor=000000)
+![Made with](https://img.shields.io/badge/Made%20with-❤️%20and%20Python-FF1493?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-8B4513?style=for-the-badge)
 
 </div>
