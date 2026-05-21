@@ -30,14 +30,12 @@
 </p>
 ---
 
-## 🔥 Focus
-
-- Python Automation  
-- AI Tools & Workflows  
-- Web Development  
-- Security Testing  
-
----
+🔥 Focus Areas
+🧠 AI / Machine Learning & Automation
+⚙️ Python Backend Development & Scripting
+🌐 Full-Stack Web Development
+🛡️ Cybersecurity & Security Testing
+🤖 AI Tools, Agents & Workflow Automation
 
 ## 📊 GitHub Stats
 
