@@ -1,6 +1,5 @@
-# 👋 MD Taki
-
-### Python Automation • Security Research • Full-Stack Dev
+👋 Hi, I’m MD Taki  
+Python Automation • Full-Stack Development • Cybersecurity Enthusiast
 
 <div align="center">
 
