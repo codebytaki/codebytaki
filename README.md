@@ -1,15 +1,7 @@
 👋 Hi, I’m MD Taki  
 Python Automation • Full-Stack Development • Cybersecurity Enthusiast
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=codebytaki&style=flat-square)
-![Followers](https://img.shields.io/github/followers/codebytaki?style=flat-square)
-![Stars](https://img.shields.io/github/stars/codebytaki?style=flat-square)
-
-</div>
-
----
 
 ## 🚀 About Me
 
