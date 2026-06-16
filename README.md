@@ -12,42 +12,31 @@
 
 ---
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+## 👤 About Me
 
-### 👤 About Me
+<div align="center">
 
-```yaml
-name: MD Taki
-alias: codebytaki
-location: 🌍 Remote
-status: 🎯 Focusing
+| | |
+|:---|:---|
+| 🧑‍💻 **Name** | MD Taki |
+| 🏷️ **Alias** | codebytaki |
+| 🌍 **Location** | Remote |
+| 🎯 **Status** | Open to Collaborations & Bug Bounty |
+| 🔭 **Building** | BugHunter AI Platform · Bug Hunter Toolkit v3 · AI DevOps Pipeline |
+| 🌱 **Learning** | Advanced AI Agents · LLM Integration · Cloud Security |
+| ⚡ **Fun fact** | I hunt bugs in code AND in real apps 🐛 |
 
-focus:
-  - Python Automation & Scripting
-  - Security Research & Bug Bounty
-  - Full-Stack Web Development
-  - AI Agents & LLM Integration
+</div>
 
-currently_building:
-  - 🛡️ BugHunter AI Platform
-  - 🔧 Bug Hunter Toolkit v3
-  - 🤖 AI DevOps Pipeline
+---
 
-open_to: Collaborations & Bug Bounty
-```
+## 🏆 GitHub Trophies
 
-</td>
-<td align="center" width="50%">
+<div align="center">
 
-### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=codebytaki&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codebytaki&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
