@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=MD%20Taki&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Security%20Researcher%20%7C%20AI%20Developer%20%7C%20Bug%20Hunter&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-</div>
 
-<div align="center">
+# 👋 Hi, I'm MD Taki
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Python+Automation+Developer;Full-Stack+Web+Developer;Security+Researcher+%26+Bug+Hunter;AI+Tools+%26+Workflow+Automation;Web+Vulnerability+Scanner+Builder+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+### Security Researcher · AI Developer · Bug Hunter
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Python+Automation+Developer;Full-Stack+Web+Developer;Security+Researcher+%26+Bug+Hunter;AI+Tools+%26+Workflow+Automation;Web+Vulnerability+Scanner+Builder+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,25 +82,72 @@
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/codebytaki/webvulnscan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=webvulnscan&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
-</a>
-<a href="https://github.com/codebytaki/bug-hunter-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=bug-hunter-toolkit&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/codebytaki/ai-devops-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=ai-devops-pipeline&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/codebytaki/fullstack-ai-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=fullstack-ai-dashboard&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/codebytaki/ai-automation-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=ai-automation-toolkit&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
+### 🔐 [WebVulnScan](https://github.com/codebytaki/webvulnscan)
+Free open-source website scanner with **150+ automated checks** for security vulnerabilities, SEO issues, performance, privacy compliance, and accessibility. No signup required.
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🐛 [Bug Hunter Toolkit](https://github.com/codebytaki/bug-hunter-toolkit)
+Professional security testing toolkit for bug bounty hunters with **CVE search**, Exploit-DB integration, and automated reporting.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Bug%20Bounty-critical?style=flat-square&logo=bugcrowd&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [AI DevOps Pipeline](https://github.com/codebytaki/ai-devops-pipeline)
+AI-powered CI/CD pipeline with **intelligent code review**, auto-scaling, and real-time monitoring using OpenAI and Claude.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📊 [Fullstack AI Dashboard](https://github.com/codebytaki/fullstack-ai-dashboard)
+Production-ready AI analytics dashboard with **JWT auth**, real-time WebSocket, 4 themes, AI chat assistant, and beautiful charts. React + TypeScript + FastAPI.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [AI Automation Toolkit](https://github.com/codebytaki/ai-automation-toolkit)
+Open-source AI automation platform — **Agents, Workflows, Browser Automation**, Multi-AI Chat, File AI. Zapier + n8n + LangGraph in one toolkit. Next.js + FastAPI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📚 [Free Programming Books](https://github.com/codebytaki/free-programming-books)
+Curated list of **freely available programming books** across all languages and topics — one of the most starred resources on GitHub.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Books](https://img.shields.io/badge/Resources-Open%20Source-2ea043?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -155,9 +202,7 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=codebytaki&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=codebytaki&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
