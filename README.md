@@ -1,12 +1,10 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=MD%20Taki&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Security%20Researcher%20%7C%20AI%20Developer%20%7C%20Bug%20Hunter&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Python+Automation+Developer;Full-Stack+Web+Developer;Security+Researcher+%26+Bug+Hunter;AI+Tools+%26+Workflow+Automation;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Python+Automation+Developer;Full-Stack+Web+Developer;Security+Researcher+%26+Bug+Hunter;AI+Tools+%26+Workflow+Automation;Web+Vulnerability+Scanner+Builder+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +20,7 @@
 | 🏷️ **Alias** | codebytaki |
 | 🌍 **Location** | Remote |
 | 🎯 **Status** | Open to Collaborations & Bug Bounty |
-| 🔭 **Building** | BugHunter AI Platform · Bug Hunter Toolkit v3 · AI DevOps Pipeline |
+| 🔭 **Building** | WebVulnScan · BugHunter AI Platform · AI DevOps Pipeline |
 | 🌱 **Learning** | Advanced AI Agents · LLM Integration · Cloud Security |
 | ⚡ **Fun fact** | I hunt bugs in code AND in real apps 🐛 |
 
@@ -61,6 +59,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -85,15 +84,17 @@
 
 <div align="center">
 
+<a href="https://github.com/codebytaki/webvulnscan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=webvulnscan&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
+</a>
 <a href="https://github.com/codebytaki/bug-hunter-toolkit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=bug-hunter-toolkit&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/codebytaki/fullstack-ai-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=fullstack-ai-dashboard&theme=github_dark&hide_border=true&border_radius=10" />
-</a>
-
 <a href="https://github.com/codebytaki/ai-devops-pipeline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=ai-devops-pipeline&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/codebytaki/fullstack-ai-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=fullstack-ai-dashboard&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/codebytaki/ai-automation-toolkit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaki&repo=ai-automation-toolkit&theme=github_dark&hide_border=true&border_radius=10" />
@@ -145,6 +146,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-codebytaki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebytaki)
+[![WebVulnScan](https://img.shields.io/badge/WebVulnScan-Security%20Scanner-1f6feb?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/codebytaki/webvulnscan)
 [![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunter-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/codebytaki/bug-hunter-toolkit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/codebytaki?tab=repositories)
 
@@ -153,13 +155,9 @@
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=codebytaki&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
-
 </div>
