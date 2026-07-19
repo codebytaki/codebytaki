@@ -147,6 +147,21 @@ Curated list of **freely available programming books** across all languages and 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 📊 [TrainIQ Dashboard](https://github.com/codebytaki/TrainIQ-dashboard)
+Modern **real estate management** dashboard with smooth animations — **dark mode toggle**, Framer Motion transitions, and beautiful UI. Built with React, Vite, Tailwind CSS.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
